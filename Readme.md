@@ -19,7 +19,7 @@ Follow the steps below to get the Registration Form project up and running local
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/HimanshuMohanty-Git24/Bharart_Intern_Task.git
+    git clone https://github.com/Hammad Naiar-Git24/Bharart_Intern_Task.git
     ```
 
 2. Navigate to the Registration Form project:
